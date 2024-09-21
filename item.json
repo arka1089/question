@@ -1,0 +1,42 @@
+[
+    {
+        "id": "101",
+        "name": "Wireless Headphones",
+        "description": "Noise-cancelling over-ear headphones with 30 hours of battery life.",
+        "price": 89.99,
+        "category": "Electronics",
+        "stock": 150
+    },
+    {
+        "id": "102",
+        "name": "Smartphone",
+        "description": "Latest model smartphone with 128GB storage and 5G connectivity.",
+        "price": 699.99,
+        "category": "Electronics",
+        "stock": 75
+    },
+    {
+        "id": "103",
+        "name": "Coffee Maker",
+        "description": "12-cup programmable coffee maker with a built-in grinder.",
+        "price": 49.99,
+        "category": "Home Appliances",
+        "stock": 200
+    },
+    {
+        "id": "104",
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with deep bass and 12 hours of playtime.",
+        "price": 29.99,
+        "category": "Electronics",
+        "stock": 300
+    },
+    {
+        "id": "105",
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat, perfect for all types of workouts.",
+        "price": 19.99,
+        "category": "Fitness",
+        "stock": 100
+    }
+]
